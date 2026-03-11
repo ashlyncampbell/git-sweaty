@@ -4140,7 +4140,7 @@ function buildStatsOverview(payload, types, years, color, options = {}) {
       return `${metricLabel}: ${formatMetricTotal(activeMetricKey, value, units)}`;
     };
     const formatMatrixTooltip = (year, label, value, breakdown) => {
-      const lines = [`${year} · ${label}`];
+      const lines = [`${year} Â· ${label}`];
       if (activeMetricKey) {
         lines.push(formatTooltipValue(value));
         if (activeMetricKey !== DAYS_OFF_METRIC_KEY) {
