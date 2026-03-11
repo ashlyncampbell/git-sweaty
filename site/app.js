@@ -3007,11 +3007,7 @@ function buildSummary(
     }
   });
   const daysOff = Math.max(0, elapsedDays - elapsedActiveDays);
-  const activeDayPercent = elapsedDays > 0 ? (elapsedActiveDays / elapsedDays) : 0;
-  const activeDayPercentLabel = elapsedDays > 0
-    ? `${Math.round(activeDayPercent * 100)}%`
-    : STAT_PLACEHOLDER;
-  
+
   const cards = [
     { title: "Activities", value: totals.count.toLocaleString() },
   ];
@@ -3027,10 +3023,6 @@ function buildSummary(
       value: daysOff.toLocaleString(),
       metricKey: DAYS_OFF_METRIC_KEY,
       filterable: daysOff > 0,
-    });
-    cards.push({
-      title: "% Days Active",
-      value: activeDayPercentLabel,
     });
   }
   cards.push(
@@ -3552,14 +3544,6 @@ function buildCard(type, year, aggregates, units, options = {}) {
   });
   const elapsedDaysInYear = getElapsedDayCountForYear(year);
   const daysOffInYear = Math.max(0, elapsedDaysInYear - elapsedActiveDays);
-  const activeDayPercentInYear = elapsedDaysInYear > 0
-  ? (elapsedActiveDays / elapsedDaysInYear)
-  : 0;
-
-const activeDayPercentInYearLabel = elapsedDaysInYear > 0
-  ? `${Math.round(activeDayPercentInYear * 100)}%`
-  : STAT_PLACEHOLDER;
-  
   metricMaxByKey[ACTIVE_DAYS_METRIC_KEY] = totals.count > 0 ? 1 : 0;
   metricMaxByKey[DAYS_OFF_METRIC_KEY] = daysOffInYear > 0 ? 1 : 0;
 
@@ -3632,14 +3616,6 @@ const activeDayPercentInYearLabel = elapsedDaysInYear > 0
         });
       },
     })),
-    { label: "% Days Active", value: activeDayPercentInYearLabel },
-  
-    ...metricItems.map((item) => ({
-      label: item.label,
-      value: item.value,
-      ...
-    })),
-
   ];
   const stats = buildSideStatColumn(statItems, { className: "card-stats side-stats-column" });
   renderHeatmap();
@@ -4140,7 +4116,7 @@ function buildStatsOverview(payload, types, years, color, options = {}) {
       return `${metricLabel}: ${formatMetricTotal(activeMetricKey, value, units)}`;
     };
     const formatMatrixTooltip = (year, label, value, breakdown) => {
-      const lines = [`${year} Â· ${label}`];
+      const lines = [`${year} · ${label}`];
       if (activeMetricKey) {
         lines.push(formatTooltipValue(value));
         if (activeMetricKey !== DAYS_OFF_METRIC_KEY) {
