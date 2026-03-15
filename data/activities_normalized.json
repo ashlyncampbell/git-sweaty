@@ -13336,5 +13336,31 @@
     "start_date_local": "2026-03-10T16:43:53Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 21853.3,
+    "elevation_gain": 62.7,
+    "id": "17723888266",
+    "moving_time": 4746.0,
+    "name": "Slopes - A morning snowboarding at Kicking Horse Mountain Resort",
+    "raw_activity_type": "Snowboard",
+    "raw_type": "Snowboard",
+    "start_date_local": "2026-03-14T10:03:09Z",
+    "type": "Snowboard",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 22110.2,
+    "elevation_gain": 127.8,
+    "id": "17723895538",
+    "moving_time": 6941.0,
+    "name": "Morning Snowboard",
+    "raw_activity_type": "Snowboard",
+    "raw_type": "Snowboard",
+    "start_date_local": "2026-03-14T10:14:35Z",
+    "type": "Snowboard",
+    "year": 2026
   }
 ]

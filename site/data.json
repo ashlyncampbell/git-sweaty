@@ -7181,6 +7181,20 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 10,
+      "subtype": "Snowboard",
+      "type": "Snowboard",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 10,
+      "subtype": "Snowboard",
+      "type": "Snowboard",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15058,6 +15072,18 @@
           "moving_time": 4767.0
         }
       },
+      "Snowboard": {
+        "2026-03-14": {
+          "activity_ids": [
+            "17723888266",
+            "17723895538"
+          ],
+          "count": 2,
+          "distance": 43963.5,
+          "elevation_gain": 190.5,
+          "moving_time": 11687.0
+        }
+      },
       "Walk": {
         "2026-01-01": {
           "activity_ids": [
@@ -15507,7 +15533,7 @@
       }
     }
   },
-  "generated_at": "2026-03-14T15:22:47.959536+00:00",
+  "generated_at": "2026-03-15T15:23:44.784737+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57116656",
   "repo": "ashlyncampbell/git-sweaty",
