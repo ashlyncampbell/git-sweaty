@@ -13362,5 +13362,18 @@
     "start_date_local": "2026-03-14T10:14:35Z",
     "type": "Snowboard",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 3029.0,
+    "elevation_gain": 52.0,
+    "id": "17774221970",
+    "moving_time": 1450.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-18T19:28:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
