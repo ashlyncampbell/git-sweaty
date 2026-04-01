@@ -13440,5 +13440,18 @@
     "start_date_local": "2026-03-27T17:39:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 10317.8,
+    "elevation_gain": 148.0,
+    "id": "17932347355",
+    "moving_time": 6967.0,
+    "name": "Monthly 10k \u2705 (poor planning/ snow/ and day 2 of a cold = WALK)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-31T17:04:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
