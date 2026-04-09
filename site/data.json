@@ -7251,6 +7251,13 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 16,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15657,11 +15664,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3181.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18034308369"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3672.0
         }
       }
     }
   },
-  "generated_at": "2026-04-08T16:12:12.249910+00:00",
+  "generated_at": "2026-04-09T16:15:09.427255+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57116656",
   "repo": "ashlyncampbell/git-sweaty",
