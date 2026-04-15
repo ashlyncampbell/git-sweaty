@@ -13505,5 +13505,18 @@
     "start_date_local": "2026-04-10T17:17:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 4322.5,
+    "elevation_gain": 112.0,
+    "id": "18112194893",
+    "moving_time": 1775.0,
+    "name": "\u201cOh look at dat cute dawg\u201d",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-14T17:39:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
