@@ -13622,5 +13622,18 @@
     "start_date_local": "2026-04-24T16:09:59Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 5022.3,
+    "elevation_gain": 53.0,
+    "id": "18272189825",
+    "moving_time": 2048.0,
+    "name": "There was a snowstorm this morning",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T15:31:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
