@@ -7377,6 +7377,13 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 11,
+      "subtype": "Golf",
+      "type": "Golf",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15127,6 +15134,17 @@
       }
     },
     "2026": {
+      "Golf": {
+        "2026-04-30": {
+          "activity_ids": [
+            "18324476488"
+          ],
+          "count": 1,
+          "distance": 12781.8,
+          "elevation_gain": 176.0,
+          "moving_time": 9082.0
+        }
+      },
       "Hike": {
         "2026-01-01": {
           "activity_ids": [
@@ -15949,7 +15967,7 @@
       }
     }
   },
-  "generated_at": "2026-04-30T16:15:18.416484+00:00",
+  "generated_at": "2026-05-01T15:51:25.958135+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57116656",
   "repo": "ashlyncampbell/git-sweaty",

@@ -13700,5 +13700,18 @@
     "start_date_local": "2026-04-30T08:20:51Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 12781.8,
+    "elevation_gain": 176.0,
+    "id": "18324476488",
+    "moving_time": 9082.0,
+    "name": "Lunch Golf",
+    "raw_activity_type": "Golf",
+    "raw_type": "Golf",
+    "start_date_local": "2026-04-30T11:36:51Z",
+    "type": "Golf",
+    "year": 2026
   }
 ]
