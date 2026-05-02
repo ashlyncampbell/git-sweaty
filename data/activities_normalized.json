@@ -13713,5 +13713,18 @@
     "start_date_local": "2026-04-30T11:36:51Z",
     "type": "Golf",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 5692.1,
+    "elevation_gain": 72.0,
+    "id": "18340219062",
+    "moving_time": 5102.0,
+    "name": "Afternoon Golf",
+    "raw_activity_type": "Golf",
+    "raw_type": "Golf",
+    "start_date_local": "2026-05-01T17:28:53Z",
+    "type": "Golf",
+    "year": 2026
   }
 ]
