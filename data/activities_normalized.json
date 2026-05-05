@@ -13752,5 +13752,31 @@
     "start_date_local": "2026-05-02T12:27:39Z",
     "type": "Golf",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18378628998",
+    "moving_time": 3826.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-04T16:28:31Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 766.9,
+    "elevation_gain": 9.0,
+    "id": "18379914025",
+    "moving_time": 688.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-04T19:58:26Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
