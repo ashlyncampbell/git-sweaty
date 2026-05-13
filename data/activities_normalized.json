@@ -13856,5 +13856,18 @@
     "start_date_local": "2026-05-11T19:39:36Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 4045.5,
+    "elevation_gain": 108.0,
+    "id": "18484925273",
+    "moving_time": 1770.0,
+    "name": "O dogs fave time of the day",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-12T18:05:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
