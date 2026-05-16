@@ -13908,5 +13908,31 @@
     "start_date_local": "2026-05-14T16:33:55Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 2918.0,
+    "elevation_gain": 67.0,
+    "id": "18521092379",
+    "moving_time": 1225.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T14:23:09Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 4990.0,
+    "elevation_gain": 96.0,
+    "id": "18523448719",
+    "moving_time": 4938.0,
+    "name": "Evening Golf",
+    "raw_activity_type": "Golf",
+    "raw_type": "Golf",
+    "start_date_local": "2026-05-15T18:06:03Z",
+    "type": "Golf",
+    "year": 2026
   }
 ]
