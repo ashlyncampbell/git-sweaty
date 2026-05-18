@@ -13934,5 +13934,18 @@
     "start_date_local": "2026-05-15T18:06:03Z",
     "type": "Golf",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 4502.7,
+    "elevation_gain": 112.0,
+    "id": "18548470020",
+    "moving_time": 1919.0,
+    "name": "Speedy pace with Oslo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T14:41:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
