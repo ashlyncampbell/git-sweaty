@@ -14038,5 +14038,18 @@
     "start_date_local": "2026-05-25T18:40:49Z",
     "type": "Golf",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 4416.1,
+    "elevation_gain": 190.0,
+    "id": "18668117052",
+    "moving_time": 2340.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-26T16:45:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
