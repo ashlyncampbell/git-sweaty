@@ -14051,5 +14051,18 @@
     "start_date_local": "2026-05-26T16:45:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 10040.0,
+    "elevation_gain": 169.0,
+    "id": "18684046276",
+    "moving_time": 4800.0,
+    "name": "May 10k \u2705",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T20:38:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
