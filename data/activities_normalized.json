@@ -14064,5 +14064,31 @@
     "start_date_local": "2026-05-27T20:38:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 1545.3,
+    "elevation_gain": 46.0,
+    "id": "18706275840",
+    "moving_time": 1378.0,
+    "name": "Little Qualicum Falls",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-29T12:13:50Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 2210.9,
+    "elevation_gain": 110.0,
+    "id": "18707011647",
+    "moving_time": 1909.0,
+    "name": "Hole in the Wall",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-29T13:37:39Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
