@@ -14116,5 +14116,18 @@
     "start_date_local": "2026-06-02T16:23:33Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 5064.5,
+    "elevation_gain": 49.0,
+    "id": "18778590346",
+    "moving_time": 5282.0,
+    "name": "Evening Golf",
+    "raw_activity_type": "Golf",
+    "raw_type": "Golf",
+    "start_date_local": "2026-06-03T18:41:09Z",
+    "type": "Golf",
+    "year": 2026
   }
 ]
