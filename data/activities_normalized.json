@@ -14129,5 +14129,18 @@
     "start_date_local": "2026-06-03T18:41:09Z",
     "type": "Golf",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 4478.4,
+    "elevation_gain": 72.0,
+    "id": "18791919702",
+    "moving_time": 2333.0,
+    "name": "Thursday night frolic",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-04T20:22:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
