@@ -14155,5 +14155,18 @@
     "start_date_local": "2026-06-05T17:20:58Z",
     "type": "Golf",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 2076.7,
+    "elevation_gain": 19.0,
+    "id": "18813382694",
+    "moving_time": 1566.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-06T10:50:40Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
