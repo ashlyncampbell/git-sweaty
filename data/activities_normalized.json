@@ -14168,5 +14168,18 @@
     "start_date_local": "2026-06-06T10:50:40Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 10098.5,
+    "elevation_gain": 238.0,
+    "id": "18844317782",
+    "moving_time": 5070.0,
+    "name": "June 10k \u2705",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-08T17:18:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
