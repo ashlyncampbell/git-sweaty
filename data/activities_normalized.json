@@ -14233,5 +14233,18 @@
     "start_date_local": "2026-06-15T09:43:24Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18951043252",
+    "moving_time": 4492.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-16T16:36:44Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
