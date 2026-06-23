@@ -14272,5 +14272,31 @@
     "start_date_local": "2026-06-19T21:22:49Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19028717690",
+    "moving_time": 3581.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-22T16:25:12Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 3830.3,
+    "elevation_gain": 57.0,
+    "id": "19036464644",
+    "moving_time": 1634.0,
+    "name": "Birthday Jaunt \ud83c\udf82",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T07:46:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
