@@ -14298,5 +14298,18 @@
     "start_date_local": "2026-06-23T07:46:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 14383.0,
+    "elevation_gain": 236.0,
+    "id": "19043758920",
+    "moving_time": 11111.0,
+    "name": "Birthday Golf - Lorette @ Kananaskis",
+    "raw_activity_type": "Golf",
+    "raw_type": "Golf",
+    "start_date_local": "2026-06-23T15:35:53Z",
+    "type": "Golf",
+    "year": 2026
   }
 ]
