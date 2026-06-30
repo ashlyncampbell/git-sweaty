@@ -7720,6 +7720,20 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-06-29",
+      "hour": 17,
+      "subtype": "Golf",
+      "type": "Golf",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 8,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15569,6 +15583,15 @@
           "distance": 14383.0,
           "elevation_gain": 236.0,
           "moving_time": 11111.0
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "19118493203"
+          ],
+          "count": 1,
+          "distance": 10011.6,
+          "elevation_gain": 230.0,
+          "moving_time": 9764.0
         }
       },
       "Hike": {
@@ -16235,6 +16258,15 @@
           "distance": 756.2,
           "elevation_gain": 12.0,
           "moving_time": 579.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19124757974"
+          ],
+          "count": 1,
+          "distance": 2272.7,
+          "elevation_gain": 11.0,
+          "moving_time": 1565.0
         }
       },
       "WeightTraining": {
@@ -16727,7 +16759,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T17:31:33.985862+00:00",
+  "generated_at": "2026-06-30T17:01:28.028687+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57116656",
   "repo": "ashlyncampbell/git-sweaty",
