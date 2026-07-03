@@ -14402,5 +14402,31 @@
     "start_date_local": "2026-07-02T10:23:48Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 10269.7,
+    "elevation_gain": 228.0,
+    "id": "19158516446",
+    "moving_time": 10185.0,
+    "name": "Afternoon Golf",
+    "raw_activity_type": "Golf",
+    "raw_type": "Golf",
+    "start_date_local": "2026-07-02T17:19:30Z",
+    "type": "Golf",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 5015.5,
+    "elevation_gain": 110.0,
+    "id": "19165119899",
+    "moving_time": 2263.0,
+    "name": "Oslo wants everyone to see how fast he is in his new running vest",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-03T09:21:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
