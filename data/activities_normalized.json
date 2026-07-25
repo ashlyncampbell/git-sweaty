@@ -14688,5 +14688,31 @@
     "start_date_local": "2026-07-23T19:25:28Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 9446.4,
+    "elevation_gain": 357.0,
+    "id": "19453396094",
+    "moving_time": 9736.0,
+    "name": "Evening Golf",
+    "raw_activity_type": "Golf",
+    "raw_type": "Golf",
+    "start_date_local": "2026-07-24T18:14:48Z",
+    "type": "Golf",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 2003.4,
+    "elevation_gain": 22.0,
+    "id": "19460691685",
+    "moving_time": 1434.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-25T08:49:23Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
