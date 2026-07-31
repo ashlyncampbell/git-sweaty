@@ -14753,5 +14753,18 @@
     "start_date_local": "2026-07-29T16:56:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 2863.0,
+    "elevation_gain": 49.0,
+    "id": "19543745024",
+    "moving_time": 1364.0,
+    "name": "Morning Jaunt",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-31T08:41:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
