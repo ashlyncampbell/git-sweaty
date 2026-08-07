@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T16:27:45.267567+00:00",
+  "generated_at": "2026-08-07T15:49:25.467314+00:00",
   "years": {
     "2020": {
       "Hike": {
@@ -7910,6 +7910,15 @@
           "distance": 4930.8,
           "elevation_gain": 183.0,
           "moving_time": 5364.0
+        },
+        "2026-08-06": {
+          "activity_ids": [
+            "19635351770"
+          ],
+          "count": 1,
+          "distance": 4715.3,
+          "elevation_gain": 86.0,
+          "moving_time": 5036.0
         }
       },
       "Hike": {
@@ -9284,6 +9293,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2292.0
+        },
+        "2026-08-05": {
+          "activity_ids": [
+            "19619733851"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3986.0
+        },
+        "2026-08-06": {
+          "activity_ids": [
+            "19633836503"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3384.0
         }
       }
     }
