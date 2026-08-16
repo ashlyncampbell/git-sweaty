@@ -14883,5 +14883,18 @@
     "start_date_local": "2026-08-14T17:04:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 14501.3,
+    "elevation_gain": 344.0,
+    "id": "19757853336",
+    "moving_time": 10134.0,
+    "name": "Morning Golf",
+    "raw_activity_type": "Golf",
+    "raw_type": "Golf",
+    "start_date_local": "2026-08-15T10:04:58Z",
+    "type": "Golf",
+    "year": 2026
   }
 ]
