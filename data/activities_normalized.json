@@ -15091,5 +15091,18 @@
     "start_date_local": "2026-08-29T09:59:06Z",
     "type": "Golf",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 10037.9,
+    "elevation_gain": 441.0,
+    "id": "19968525316",
+    "moving_time": 4749.0,
+    "name": "August 10K \u2705",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-30T12:51:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
