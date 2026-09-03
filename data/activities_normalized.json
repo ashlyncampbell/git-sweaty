@@ -15130,5 +15130,18 @@
     "start_date_local": "2026-09-01T16:33:29Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 3756.7,
+    "elevation_gain": 80.0,
+    "id": "20013709795",
+    "moving_time": 1936.0,
+    "name": "Oslos run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-02T18:31:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
