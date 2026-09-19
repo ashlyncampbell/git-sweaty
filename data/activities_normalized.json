@@ -15234,5 +15234,44 @@
     "start_date_local": "2026-09-16T19:13:42Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20232762681",
+    "moving_time": 4072.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-18T15:46:05Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 1417.4,
+    "elevation_gain": 19.0,
+    "id": "20234210394",
+    "moving_time": 1074.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-18T19:30:53Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 5015.3,
+    "elevation_gain": 95.0,
+    "id": "20242432029",
+    "moving_time": 2459.0,
+    "name": "Partially healed from the 2 wedding hangover and cold",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-19T08:33:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

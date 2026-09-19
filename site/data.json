@@ -8203,6 +8203,27 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 15,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 19,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-19",
+      "hour": 8,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16570,6 +16591,15 @@
           "distance": 3756.7,
           "elevation_gain": 80.0,
           "moving_time": 1936.0
+        },
+        "2026-09-19": {
+          "activity_ids": [
+            "20242432029"
+          ],
+          "count": 1,
+          "distance": 5015.3,
+          "elevation_gain": 95.0,
+          "moving_time": 2459.0
         }
       },
       "Snowboard": {
@@ -17130,6 +17160,15 @@
           "distance": 2139.5,
           "elevation_gain": 34.0,
           "moving_time": 1591.0
+        },
+        "2026-09-18": {
+          "activity_ids": [
+            "20234210394"
+          ],
+          "count": 1,
+          "distance": 1417.4,
+          "elevation_gain": 19.0,
+          "moving_time": 1074.0
         }
       },
       "WeightTraining": {
@@ -17789,11 +17828,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3011.0
+        },
+        "2026-09-18": {
+          "activity_ids": [
+            "20232762681"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4072.0
         }
       }
     }
   },
-  "generated_at": "2026-09-18T18:00:23.663842+00:00",
+  "generated_at": "2026-09-19T17:39:53.735338+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57116656",
   "repo": "ashlyncampbell/git-sweaty",
