@@ -15429,5 +15429,18 @@
     "start_date_local": "2026-10-02T16:17:34Z",
     "type": "Golf",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 14399.2,
+    "elevation_gain": 794.0,
+    "id": "20439454659",
+    "moving_time": 11920.0,
+    "name": "Taylor Lake",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-10-03T08:24:07Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
