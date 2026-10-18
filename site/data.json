@@ -8413,6 +8413,20 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-10-17",
+      "hour": 9,
+      "subtype": "Golf",
+      "type": "Golf",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-17",
+      "hour": 11,
+      "subtype": "Golf",
+      "type": "Golf",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16389,6 +16403,16 @@
           "distance": 4479.4,
           "elevation_gain": 62.0,
           "moving_time": 4779.0
+        },
+        "2026-10-17": {
+          "activity_ids": [
+            "20625152740",
+            "20626202124"
+          ],
+          "count": 2,
+          "distance": 11690.2,
+          "elevation_gain": 179.0,
+          "moving_time": 7512.0
         }
       },
       "Hike": {
@@ -18273,7 +18297,7 @@
       }
     }
   },
-  "generated_at": "2026-10-17T17:41:29.372412+00:00",
+  "generated_at": "2026-10-18T17:43:07.225192+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57116656",
   "repo": "ashlyncampbell/git-sweaty",
