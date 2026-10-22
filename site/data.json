@@ -8448,6 +8448,13 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-10-21",
+      "hour": 18,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16906,6 +16913,15 @@
           "distance": 10343.2,
           "elevation_gain": 304.0,
           "moving_time": 4849.0
+        },
+        "2026-10-21": {
+          "activity_ids": [
+            "20682099660"
+          ],
+          "count": 1,
+          "distance": 2482.2,
+          "elevation_gain": 33.0,
+          "moving_time": 1093.0
         }
       },
       "Snowboard": {
@@ -18337,7 +18353,7 @@
       }
     }
   },
-  "generated_at": "2026-10-21T19:03:51.815369+00:00",
+  "generated_at": "2026-10-22T19:00:07.587560+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57116656",
   "repo": "ashlyncampbell/git-sweaty",
