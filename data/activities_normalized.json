@@ -15806,5 +15806,18 @@
     "start_date_local": "2026-10-29T16:26:35Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 2381.1,
+    "elevation_gain": 13.0,
+    "id": "20823438331",
+    "moving_time": 1695.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-01T15:41:59Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
