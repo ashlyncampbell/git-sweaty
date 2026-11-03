@@ -8518,6 +8518,13 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-11-02",
+      "hour": 18,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18485,11 +18492,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4541.0
+        },
+        "2026-11-02": {
+          "activity_ids": [
+            "20837059226"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3786.0
         }
       }
     }
   },
-  "generated_at": "2026-11-02T22:57:54.586995+00:00",
+  "generated_at": "2026-11-03T20:44:11.244806+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/57116656",
   "repo": "ashlyncampbell/git-sweaty",
