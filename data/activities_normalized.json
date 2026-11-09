@@ -15878,11 +15878,24 @@
     "elevation_gain": 377.0,
     "id": "20899655287",
     "moving_time": 5448.0,
-    "name": "Morning Hike",
+    "name": "White Buddha",
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-11-07T09:05:40Z",
     "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 3586.0,
+    "elevation_gain": 20.0,
+    "id": "20914793149",
+    "moving_time": 1714.0,
+    "name": "Windy run helped but also didn\u2019t",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-08T15:57:04Z",
+    "type": "Run",
     "year": 2026
   }
 ]
