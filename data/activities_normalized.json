@@ -15988,5 +15988,31 @@
     "start_date_local": "2026-11-24T16:28:04Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 2480.6,
+    "elevation_gain": 2.0,
+    "id": "21138026667",
+    "moving_time": 1094.0,
+    "name": "Lil jaunt avoiding what ice is left",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-26T17:34:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21147751038",
+    "moving_time": 3326.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-27T16:06:43Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
